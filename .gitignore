@@ -10,3 +10,4 @@ package-lock.json
 
 # npm cruft
 npm-debug.log
+examples/simple-server/node_modules/.bin
